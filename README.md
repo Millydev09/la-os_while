@@ -1,2 +1,3 @@
-# la-os_while
-Uso de laço while em c++
+TABUADA
+Este programa exibe os resultados da tabuada em sua forma tradicional .
+
